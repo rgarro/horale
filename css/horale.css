@@ -1,0 +1,32 @@
+span.ui-icon {
+		margin: 0 5px 0 0;
+		position: absolute;
+		left: .2em;
+		top: 50%;
+		margin-top: -8px;
+	}
+	#icons {
+		margin: 0;
+		padding: 0;
+	}
+	.ui-icon {
+		margin: 2px;
+		position: relative;
+		padding: 4px 0;
+		cursor: pointer;
+		float: left;
+		list-style: none;
+	}
+	.ui-icon {
+		float: left;
+		margin: 0 4px;
+	}
+
+#danceFloor{
+	min-width: 300px;
+	min-height: 300px;
+	border-radius: 15px; 
+	-moz-border-radius: 15px; 
+	-webkit-border-radius: 15px; 
+	border: 2px dotted #E8BE15;
+}
